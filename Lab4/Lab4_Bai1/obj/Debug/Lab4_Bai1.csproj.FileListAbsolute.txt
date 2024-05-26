@@ -1,0 +1,16 @@
+D:\Lab4\Lab4_Bai1\bin\Debug\Lab4_Bai1.exe.config
+D:\Lab4\Lab4_Bai1\bin\Debug\Lab4_Bai1.exe
+D:\Lab4\Lab4_Bai1\bin\Debug\Lab4_Bai1.pdb
+D:\Lab4\Lab4_Bai1\obj\Debug\Lab4_Bai1.csproj.AssemblyReference.cache
+D:\Lab4\Lab4_Bai1\obj\Debug\Lab4_Bai1.csproj.SuggestedBindingRedirects.cache
+D:\Lab4\Lab4_Bai1\obj\Debug\Lab4_Bai1.csproj.CoreCompileInputs.cache
+D:\Lab4\Lab4_Bai1\obj\Debug\Lab4_Bai1.exe
+D:\Lab4\Lab4_Bai1\obj\Debug\Lab4_Bai1.pdb
+D:\C#2\Lab4\Lab4_Bai1\bin\Debug\Lab4_Bai1.exe.config
+D:\C#2\Lab4\Lab4_Bai1\bin\Debug\Lab4_Bai1.exe
+D:\C#2\Lab4\Lab4_Bai1\bin\Debug\Lab4_Bai1.pdb
+D:\C#2\Lab4\Lab4_Bai1\obj\Debug\Lab4_Bai1.csproj.AssemblyReference.cache
+D:\C#2\Lab4\Lab4_Bai1\obj\Debug\Lab4_Bai1.csproj.SuggestedBindingRedirects.cache
+D:\C#2\Lab4\Lab4_Bai1\obj\Debug\Lab4_Bai1.csproj.CoreCompileInputs.cache
+D:\C#2\Lab4\Lab4_Bai1\obj\Debug\Lab4_Bai1.exe
+D:\C#2\Lab4\Lab4_Bai1\obj\Debug\Lab4_Bai1.pdb
